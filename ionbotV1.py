@@ -11,7 +11,7 @@ month = loctime[1]
 day = loctime[2]
 nm = 0
 hour = loctime[3]
-pp = 0
+#pp = 0
 def get_userPass():
     global username
     global password
